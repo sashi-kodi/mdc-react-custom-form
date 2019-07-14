@@ -6,9 +6,6 @@ import Form from './Form.js';
 import './App.css';
 
 function App() {
-   const onClickHandler= ()=>{
-        console.log('clicked button');
-    }
   return (
     <div className="App">
       <Form />
