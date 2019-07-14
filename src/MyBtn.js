@@ -18,7 +18,7 @@ const MyBtn = ({
   return (
     <Button onClick={onClickHandler}
       {...otherProps} className={className} outlined={outlined} unelevated={unelevated} raised={raised} disabled={disabled}>
-        Click Me!
+       { children}
       </Button>
   );
 };
