@@ -1,3 +1,5 @@
+#This project uses MDC React TextField component as form fields.
+#This program demonstrates custom validators.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
